@@ -17,3 +17,15 @@
 17. Descargamos ficheros de la apliación web
 18. Vamos al directorio y descomprimimos el fichero que acabamos de instalar
 19. Cambiamos el nombre del Owncloud a app-web
+20. Copiamos los  ficheros  a la carpeta /var/www/html, modificamos app-web por el nombre del directorio donde se ha descomprimido nuestro arxivo
+21. Eliminamos la carpeta creada
+22. Elimminamos el fichero index.html de l'apache2
+23. Aplicación de permisos en nuestras aplicaciones web
+24. Vamos al navegador y comprovamos que todo fuenciona entrando en https://localhost
+25. Si hemos seguido los pasos y lo hemos hecho bien
+26. Si hemos modificado la información del manual, la información que tendremos que poner es:
+27. Usuario:usuario
+28. Contraseña: password
+29. Base de datos: bbdd
+30. Dominio: localhost
+31. Si hemos seguido todo ya lo tendriamos todo hecho
